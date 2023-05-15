@@ -1,2 +1,2 @@
 # Data-Analysis
-This repository contains data analysis projects in excel and python
+This repository contains data analysis projects in Excel and Python
