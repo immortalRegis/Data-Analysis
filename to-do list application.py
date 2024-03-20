@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Feb 20 11:43:46 2024
-
+This to-do list stores it's information in a sqlite database. The UI is designed using tkinter. Any user can
+add, modify or delete tasks in the database directly from the application front-end. 
 @author: segun
 """
 
